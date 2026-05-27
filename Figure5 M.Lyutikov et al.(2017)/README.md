@@ -54,7 +54,7 @@ This folder contains:
 - `figure5_reproduction.ipynb`  
   Jupyter notebook containing the complete simulation and plotting procedure.
 
-- `output.png`  
+- `output_figure5.png`  
   Final reproduced polarization figure.
 
 - `figure5_reproduction.py`  
