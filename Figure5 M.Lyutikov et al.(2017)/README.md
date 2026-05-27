@@ -51,10 +51,10 @@ where:
 
 This folder contains:
 
-- `figure5_reproduction.ipynb`  
+- `Lyutikov_2017 Fig.5.ipynb`  
   Jupyter notebook containing the complete simulation and plotting procedure.
 
-- `output_figure5.png`  
+- `Lyutikov Fig 5 2017.png`  
   Final reproduced polarization figure.
 
 - `figure5_reproduction.py`  
