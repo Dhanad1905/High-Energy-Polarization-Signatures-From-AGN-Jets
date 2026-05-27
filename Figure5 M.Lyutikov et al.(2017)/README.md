@@ -57,9 +57,6 @@ This folder contains:
 - `Lyutikov Fig 5 2017.png`  
   Final reproduced polarization figure.
 
-- `figure5_reproduction.py`  
-  Clean Python implementation of the simulation.
-
 ---
 
 ## Libraries Used
