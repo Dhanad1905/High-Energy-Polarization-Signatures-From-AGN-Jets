@@ -10,7 +10,6 @@ This project reproduces Figure 2 from the paper:
 The simulation visualizes the polarization vector pattern produced by a relativistically expanding thin emitting shell carrying a large-scale ordered toroidal magnetic field.
 
 The reproduced figure demonstrates how relativistic aberration and magnetic field geometry determine the observed synchrotron polarization structure.
-
 ---
 
 ## Physics Background
